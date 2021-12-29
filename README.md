@@ -1,3 +1,2 @@
-# armandolatigo
-testing, test, one two, test
-does not work why
+### Future Data Analyst
+Currently studying, practicing, self-teaching to enter the world of data analysis
